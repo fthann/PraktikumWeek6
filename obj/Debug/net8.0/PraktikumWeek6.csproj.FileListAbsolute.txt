@@ -12,3 +12,4 @@ C:\Users\Rado\PraktikumWeek6\obj\Debug\net8.0\refint\PraktikumWeek6.dll
 C:\Users\Rado\PraktikumWeek6\obj\Debug\net8.0\PraktikumWeek6.pdb
 C:\Users\Rado\PraktikumWeek6\obj\Debug\net8.0\PraktikumWeek6.genruntimeconfig.cache
 C:\Users\Rado\PraktikumWeek6\obj\Debug\net8.0\ref\PraktikumWeek6.dll
+C:\Users\Rado\PraktikumWeek6\obj\Debug\net8.0\PraktikumWeek6.sourcelink.json
